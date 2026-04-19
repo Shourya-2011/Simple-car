@@ -1,0 +1,13 @@
+﻿Item Number,Part Name,Quantity,Description
+1,Battery Holder,1,Battery Holder for 3 Li-ion battery for holding the cells
+2,Battery ,3,18560 Li-ion cell for power
+3,Ultrasonic sensor,1,An HC-SR04 Ultrasonic sensor for Auto-nav
+4,Chassis,1,A chassis as main body
+5,BO motors,2,Main motors
+6,BO Wheels,2,For motors
+7,Switch,1,For toggling off and on
+8,IMU,1,MPU6050 for yaw detection in motion
+9,Motor Driver,1,"For motor control, L298N recommended due to its built-in 5v regulator"
+10,5v Regulator,1,Only if some other driver is used without the in-built regulator
+11,Microcontroller,1,ESP-WROOM-32 for main control and BLE Controller
+12,Caster Wheel,1,For balance
