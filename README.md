@@ -2,7 +2,6 @@
 This is a repository for a simple esp32 car.
 ## Includes
 - Bill of Materials file 
-- Rough 3d Model 
 - firmware 
 - diagram file from wokwi 
 ## Note
